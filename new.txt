@@ -1,0 +1,5 @@
+1) My first name is Artem.
+2) My last name is Kolesov.
+3) Age - 39.
+4) No pets.
+5) Disired salary - 1000 $
